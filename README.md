@@ -1,6 +1,6 @@
 # MLDA-Enthuse-V2
 
-# 
+Shortened URL - [https://bit.ly/2W92tsY](https://bit.ly/2W92tsY)
 
 ## Step 1 - Logging into Google Colab
 
