@@ -11,6 +11,8 @@ Shortened URL - [https://bit.ly/2W92tsY](https://bit.ly/2W92tsY)
 
 ### Step 2 - Opening a notebook
 - Click `File > New Python 3 Notebook` to create a new `.ipynb` file online
+- Wondering what's a notebook?
+    - Think of it like a word document where you can write your python code, run and see the outputs, add comments and notes, insert images, etc. in one place. 
 
 ### Step 3 - .csv file URL
 - To directly load the .csv file into your current python program, copy the corresponding url shown below and paste it inside the command 
