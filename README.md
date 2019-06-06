@@ -38,7 +38,7 @@ Shortened URL - [https://bit.ly/2W92tsY](https://bit.ly/2W92tsY)
 - Introduction to Python Libraries - _Link for code will be provided by the end of workshop_
 
 ### [Part 2 - Intro to Data Science and Hands-on Mini Projects](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects)
-- What is Data Science - [PPT]https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/What%20is%20Data%20Science.pptx)
+- What is Data Science - [PPT](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/What%20is%20Data%20Science.pptx)
 - Supervised Learning - _Link for code will be provided by the end of workshop_
 - Unsupervised Learning -  _Link for code will be provided by the end of workshop_
 
