@@ -16,11 +16,15 @@
 
 <!-- /TOC -->
 ## Steps to follow:
-### Step 1 - Logging into Google Colab
-
+### Step 1a - Logging into Google Colab
+** If you don't have a google account, skip to Step 1b **
 - Go to [https://colab.research.google.com](https://colab.research.google.com)
 - Sign in to your google account
 - If you are new to google colab notebook, watch this Youtube video -  [Get started with Google Colaboratory (Coding TensorFlow)](https://youtu.be/inN8seMm7UI)
+
+### Step 1b - Jupyter Notebook in Browser
+- Go to [https://jupyter.org/try](https://jupyter.org/try)
+- Click on "Try Jupyter with Python". This will launch an online jupyter notebook using binder
 
 ### Step 2 - Opening a notebook
 - Click `File > New Python 3 Notebook` to create a new `.ipynb` file online
