@@ -11,7 +11,7 @@
 			- [Part 2a - Supervised Learning](#part-2a-supervised-learning)
 			- [Part 2b - Unsupervised Learning](#part-2b-unsupervised-learning)
 	- [Topics Covered](#topics-covered)
-		- [[Part 1 - Intro to Python and Python Libraries](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries)](#part-1-intro-to-python-and-python-librarieshttpsgithubcomprasanth-ntumlda-enthuse-v2treemasterpart20120-20intro20to20python20and20python20libraries)
+		- [Part 1 - Intro to Python and Python Libraries](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries)(#part-1-intro-to-python-and-python-librarieshttpsgithubcomprasanth-ntumlda-enthuse-v2treemasterpart20120-20intro20to20python20and20python20libraries)
 		- [[Part 2 - Intro to Data Science and Hands-on Mini Projects](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects)](#part-2-intro-to-data-science-and-hands-on-mini-projectshttpsgithubcomprasanth-ntumlda-enthuse-v2treemasterpart20220-20intro20to20data20science20and20hands-on20mini20projects)
 
 <!-- /TOC -->
