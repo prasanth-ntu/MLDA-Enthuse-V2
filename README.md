@@ -50,12 +50,14 @@
 
 
 ## Topics Covered
+- What is Data Science - [PPT](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/What%20is%20Data%20Science.pptx)
+
 ### [Part 1 - Intro to Python and Python Libraries](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries)
 - Introduction to Python Basics - [PDF](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries/Basic%20python_MLDA.pdf)
 - Introduction to Python Libraries - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries/Introduction%20to%20Python%20Libraries.ipynb)
 
 ### [Part 2 - Intro to Data Science and Hands-on Mini Projects](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects)
-- What is Data Science - [PPT](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/What%20is%20Data%20Science.pptx)
+
 - Supervised Learning - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/regression_Raman.ipynb)
 - Unsupervised Learning -  [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Unsupervised%20Learning/kmeans_Raman.ipynb)
 
