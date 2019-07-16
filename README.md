@@ -62,15 +62,15 @@
 
 ### [Part 1 - Intro to Python and Python Libraries](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries)
 - Introduction to Python Basics - [PDF](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries/Basic%20python_MLDA.pdf)
-- Introduction to Python Libraries - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries/Introduction%20to%20Python%20Libraries.ipynb)
+- Introduction to Python Libraries - [ipynb code](Part%201%20-%20Intro%20to%20Python%20and%20Python%20Libraries/Introduction%20to%20Python%20Libraries.ipynb)
 
 ### [Part 2 - Intro to Data Science and Hands-on Mini Projects](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects)
 
 - Supervised Learning
-	- Linear Regression - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/v2/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/Linear%20Regression.ipynb)
-	- Logistic Regression - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/v2/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/Logistic%20Regression.ipynb)
+	- Linear Regression - [ipynb code](Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/Linear%20Regression.ipynb)
+	- Logistic Regression - [ipynb code](Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/Logistic%20Regression.ipynb)
 
 - Unsupervised Learning
-  	- K Means Clustering - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/v2/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Unsupervised%20Learning/kmeans.ipynb)
+  	- K Means Clustering - [ipynb code](Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Unsupervised%20Learning/kmeans.ipynb)
 
 -----
