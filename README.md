@@ -23,8 +23,16 @@
 - If you are new to google colab notebook, watch this Youtube video -  [Get started with Google Colaboratory (Coding TensorFlow)](https://youtu.be/inN8seMm7UI)
 
 ### Step 1b - Jupyter Notebook in Browser
+** If the notebook disconnects/ dies often, consider Step 1c **
 - Go to [https://jupyter.org/try](https://jupyter.org/try)
 - Click on "Try Jupyter with Python". This will launch an online jupyter notebook using binder
+
+### Step 1c - Jupyter Notebook Installation
+- If you want to install jupyter notebook into your computer,
+	- go to [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/),
+	- Download `Anaconda` and
+	- Install it
+	- Click `Start > Anaconda > Jupter Notebook` (in Windows)
 
 ### Step 2 - Opening a notebook
 - Click `File > New Python 3 Notebook` to create a new `.ipynb` file online
