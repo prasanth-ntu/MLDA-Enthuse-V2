@@ -1,4 +1,4 @@
-# MLDA-Enthuse-V2
+# MLDA-Enthuse-V2 (16-Jul-2019)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -66,7 +66,11 @@
 
 ### [Part 2 - Intro to Data Science and Hands-on Mini Projects](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/tree/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects)
 
-- Supervised Learning - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/regression_Raman.ipynb)
-- Unsupervised Learning -  [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/master/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Unsupervised%20Learning/kmeans_Raman.ipynb)
+- Supervised Learning
+	- Linear Regression - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/v2/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/Linear%20Regression.ipynb)
+	- Logistic Regression - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/v2/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Supervised%20Learning/Logistic%20Regression.ipynb)
+
+- Unsupervised Learning
+  	- K Means Clustering - [ipynb code](https://github.com/prasanth-ntu/MLDA-Enthuse-V2/blob/v2/Part%202%20-%20Intro%20to%20Data%20Science%20and%20Hands-on%20Mini%20Projects/Unsupervised%20Learning/kmeans.ipynb)
 
 -----
